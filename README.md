@@ -6,40 +6,5 @@ there you will have to make a folder called "addons" and then you will have to m
 *This mod will not work when the lobby members do not have the same VPK as the host.*
 # *Combine Faction*
 # New Units
-*can be made in the headquarters*
-- Metropolice Scout
-
-*can be made in the garrison*
-- Metropolice Elite
-- Combine Technican
-
-*can be made in the special ops*
-- Elite Combine Sniper
-
-*can be made in the synth factory*
-- Elite Strider
-- Combine Gunship
-# New Buildings
-- Combine Teleporter
-- Big Bunker
-- Big Energy Cell
-- Big Powergenerator
-- Resource Maker
-# New Abilities
-*for the armory*
-- Unlock Headcrab Canisters
-- Unlock Combine Technicans
-- Unlock Elite Strider
-- Unlock more energy for Elite Strider
-# *Rebel Faction*
-# New Units
-*can be made in the headquarters*
-- Resistance Strider
-- Resistance Helicopter
-
-*Stay tuened for more!*
-
-# Credits
-- Lambda Wars Development Team = Making this even possible.
-- Riggs = Making the Mod / Beta Testing
-- NextKurome = Providing custom models /Beta Testing
+- Metro Police (Medic) [Able to build regeneration posts]
+- Combine Technician [Able to build cover buildings]
