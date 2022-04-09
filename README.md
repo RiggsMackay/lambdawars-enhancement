@@ -8,3 +8,11 @@ there you will have to make a folder called "addons" and then you will have to m
 ## New Units
 - Combine Technician [Able to build cover buildings]
 - Metro Police (Medic) [Able to build regeneration posts]
+
+# *Rebel Faction*
+## New Units
+- Partisan (Pistol)
+- Rebel (Pistol)
+
+# *Weapons*
+Weapons are now faster and deal more damage!
