@@ -5,6 +5,6 @@ To install this mod, you have to goto your Lambda Wars Game directory which shou
 there you will have to make a folder called "addons" and then you will have to move the installed VPK inside the addons folder. And then you are free to go to have fun.
 *This mod will not work when the lobby members do not have the same VPK as the host.*
 # *Combine Faction*
-# New Units
-- Metro Police (Medic) [Able to build regeneration posts]
+## New Units
 - Combine Technician [Able to build cover buildings]
+- Metro Police (Medic) [Able to build regeneration posts]
