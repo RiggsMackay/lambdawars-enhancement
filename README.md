@@ -6,8 +6,8 @@ there you will have to make a folder called "addons" and then you will have to m
 *This mod will not work when the lobby members do not have the same VPK as the host.*
 # *Combine Faction*
 ## New Units
-- Combine Technician [Able to build cover buildings]
-- Metro Police (Medic) [Able to build regeneration posts]
+- Combine Technician [Able to build cover buildings and regeneration posts]
+- Metro Police (Medic) [Able to heal team-mates] *WIP*
 
 # *Rebel Faction*
 ## New Units
