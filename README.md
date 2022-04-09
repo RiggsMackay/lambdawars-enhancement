@@ -7,7 +7,7 @@ there you will have to make a folder called "addons" and then you will have to m
 # *Combine Faction*
 ## New Units
 - Combine Technician [Able to build cover buildings and regeneration posts]
-- Metro Police (Medic) [Able to heal team-mates] *WIP*
+- Metro Police (Medic) [Able to heal team-mates] **WIP**
 
 # *Rebel Faction*
 ## New Units
